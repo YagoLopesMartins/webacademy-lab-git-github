@@ -35,3 +35,6 @@ No repositório local, edite um arquivo da branch criada no passo 8.
 Na main local, faça o merge com a branch criada no passo 8.
 Sincronize  a main “mergeada” para o repositório remoto.
 
+
+_________________________________________________________________________________
+
